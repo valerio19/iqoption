@@ -24,7 +24,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -118,21 +118,29 @@
               "linkInNewWindow": false,
               "name": "coderwall",
               "family": "socicon",
-              "link": "http://bit.do/iq-option-traders-insta",
+              "link": "http://bit.do/landing-page-1",
               "size": 0,
               "color": "#fac51c",
               "newWindow": true,
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://bit.do/iqoption-track\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">It Work's</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bit.do/insafamous\" target=\"_blank\">900% INSTGRAM BOOST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/iqoption-track\" target=\"_blank\">OFFICIAL SITE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\">GOT QUESTION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://bit.do/iqoption-track\" target=\"_blank\">Join Today!</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://bit.do/landing-page-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">It Work's</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bit.do/insafamous\" target=\"_blank\">900% INSTGRAM BOOST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/landing-page-1\" target=\"_blank\">OFFICIAL SITE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#buttons1-z\">IQ OPTION SUPPORT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" target=\"_blank\">Join Today!</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "header1-y",
           "_params": {
             "parallax": true,
@@ -154,22 +162,22 @@
             "showButtons": true
           },
           "title": "Ron Smith xz.",
-          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the got question tab above!<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team!</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "32px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "22px"
-            }
-          }
+          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the got contact form below the site!<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team!</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "15px"
+            }
+          },
           "_anchor": "msg-box5-x",
           "_params": {
             "imageSize": "49",
@@ -212,15 +220,7 @@
           },
           "title": "Take advantage of what the world has to offer!",
           "text": "Take a look at the wealthiest people in the world today Warren buffet, Michael dell, Bill gates, Paul Allen and the Waltham family all first generation multi billionaires. If you do what other successful people do you'll eventually get the same results as they do! There are many ways to get the things that we want in our lives but it all begins with how we choose to think  (words from the famous speaker : LES BROWN) This is your chance to take advantage of what the world has to offer! Take advantage of what is truly yours! Click the tab below and use that to create a better life for yourself and for your family!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How Im Making $100-$1000</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "15px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How Im Making $100-$1000</a>"
         },
         {
           "_styles": {
@@ -244,6 +244,19 @@
           },
           "title": "Empowering people to make smart choices!",
           "meta": "greatness begins with you!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://www.youtube.com/watch?v=WhGHXGZ0xos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Payment withdrawal proof</a>"
         },
         {
           "_tags": [
@@ -309,13 +322,18 @@
           },
           "title": "Iq option trading platform!",
           "text": "I'm using Iq Option! To generate a monthly income for myself it is very easy to start and very easy to earn a couple a hundred or a couple a thousand bucks per day per month etc! It all depends on how much work you are willing to put in learning and mastering this system. Iq Option is a trading platform used by thousands of people worldwide, press play and watch the video on the left this will inform you more about Iq Options trading platform! Many businesses online push's you to spend thousands before you can see any form of results but with Iq Option you can start with as low as $10 dollars! I started with $10 dollars because at the time I didn’t have much I had about $75 dollars to my name! But I was eager to start so I spent $10 and made $108 dollars after a few trades. Learn how to trade by using the videos I have provided at the bottom of this website! Live your dream!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Earn Your First Buck Online</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Earn Your First Buck Online</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          },
           "_anchor": "msg-box1-v",
           "_params": {
             "paddingTop": "1",
@@ -337,14 +355,9 @@
             "showText": false,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-android\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Android</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-ios\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">iOS device</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-android\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-ios\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(44, 130, 201);\"></span></a>",
           "text": "google playstore and ios",
-          "title": "Download the app for your ANDROID or iOS!",
-          "_styles": {
-            "H3": {
-              "font-size": "25px"
-            }
-          }
+          "title": "Download the app for your ANDROID or iOS!"
         },
         {
           "_tags": [
@@ -450,6 +463,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://iqoption.com/en/cabinet/messages\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>CONTACT SUPPORT&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"http://\" data-toolbar=\"-mbrBtnMove\">+44-20-8068-0760<span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts3",
           "_styles": {
             "LI": {
@@ -484,7 +510,7 @@
               "linkInNewWindow": false,
               "name": "coderwall",
               "family": "socicon",
-              "link": "http://bit.do/iq-option-traders-insta",
+              "link": "http://bit.do/landing-page-1",
               "size": 0,
               "color": "#fac51c",
               "active": true,
@@ -555,7 +581,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -580,7 +606,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Earn.com. <b><a href=\"index.html\" class=\"text-white\">Disclaimer</a> - <a href=\"https://iqoption.com/terms-and-conditions/privacy-policy\" class=\"text-white\" target=\"_blank\">Privacy Policy</a> - <a href=\"https://iqoption.com/terms-and-conditions\" class=\"text-white\" target=\"_blank\">Terms Of Service</a></b>"
+          "text": "<p>Copyright (c) 2017 Earn.com. <a href=\"https://iqoption.com/en/terms-and-conditions/chat-code-of-conduct\" target=\"_blank\" class=\"text-white\">C.O,C</a>&nbsp;-&nbsp;<a href=\"https://iqoption.com/en/terms-and-conditions/payment-policy\" target=\"_blank\" class=\"text-white\">Payment policy</a><b><a href=\"index.html\" class=\"text-white\"></a> - <a href=\"https://iqoption.com/en/terms-and-conditions/privacy-policy\" class=\"text-white\" target=\"_blank\">Privacy Policy</a> - <a href=\"https://iqoption.com/en/terms-and-conditions/terms-conditions\" class=\"text-white\" target=\"_blank\">Terms Of Service</a>&nbsp;- <a href=\"https://iqoption.com/en/terms-and-conditions/return-and-refund-policy\" target=\"_blank\" class=\"text-white\">Withdrawal &amp; refund policy</a> - </b><a href=\"https://iqoption.com/en/terms-and-conditions/aml-kyc-policy\" target=\"_blank\" class=\"text-white\">AML &amp; KYC policy</a></p>"
         }
       ]
     }
