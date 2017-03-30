@@ -475,7 +475,10 @@ h6,
   color: #fac51c!important;
 }
 #header1-y .mbr-section-title {
-  font-size: 46px;
+  font-size: 32px;
+}
+#header1-y .mbr-section-lead {
+  font-size: 22px;
 }
 #msg-box5-x H3 {
   font-size: 25px;

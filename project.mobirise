@@ -138,7 +138,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -146,19 +146,22 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "RonSmith xz",
+          "title": "Ron Smith xz.",
           "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the got question tab above!<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team!</a>",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "32px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "22px"
             }
           }
         },
