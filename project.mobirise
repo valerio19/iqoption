@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-03-18_2021",
+    "name": "earn-now.online",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -132,74 +132,35 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "font-size": "46px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
+          "_name": "header1",
+          "_anchor": "header1-y",
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": "6",
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.7",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "John.",
-                "showText": true,
-                "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful service that allowed me to retire at a young age and thanks for making it so easy for me to earn and withdraw my money directly to my card\"",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join Today!</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.7",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Jerry.",
-                "showText": true,
-                "text": "“Shape your future with this wonderful opportunity; nothing is better than having your life in your own hands. No boss, No job, work when I want sit at home just me and my kids! Thanks 4 the opportunity! So happy”",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join Today!</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.7",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Dean.",
-                "showText": true,
-                "text": "“Thanks to Iq option I can now travel the world and do what I like because of my time freedom, no more slaving for a boss that pays me minimum wage, take the advantage guys and set yourself free today! This is the way to a better life”",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join Today!</a> "
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
-          "_anchor": "slider-1",
-          "articleLayout": false
+          "title": "RonSmith xz",
+          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the got question tab above!<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/iqoption-track\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team!</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_tags": [

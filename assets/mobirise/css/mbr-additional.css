@@ -474,12 +474,8 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #fac51c!important;
 }
-#slider-1 H2 {
+#header1-y .mbr-section-title {
   font-size: 46px;
-  color: #ffffff;
-}
-#slider-1 P {
-  color: #ffffff;
 }
 #msg-box5-x H3 {
   font-size: 25px;
