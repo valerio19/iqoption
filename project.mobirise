@@ -162,7 +162,7 @@
             "showButtons": true
           },
           "title": "Ron Smith xz.",
-          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the got contact form below the site!<br>",
+          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the contact form below the site!<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team!</a>"
         },
         {
@@ -471,7 +471,7 @@
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-8",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
