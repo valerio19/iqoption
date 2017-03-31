@@ -480,6 +480,22 @@ h6,
 #header1-y .mbr-section-lead {
   font-size: 22px;
 }
+#msg-box5-12 H3 {
+  font-size: 25px;
+}
+#msg-box5-12 P {
+  font-size: 15px;
+}
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-15 H3 {
+  font-size: 25px;
+}
+#header3-15 SMALL {
+  color: #b8312f;
+}
 #msg-box5-x H3 {
   font-size: 25px;
 }
@@ -491,6 +507,19 @@ h6,
   text-align: center;
 }
 #header3-t H3 {
+  font-size: 25px;
+}
+#msg-box5-16 H3 {
+  font-size: 25px;
+}
+#msg-box5-16 P {
+  font-size: 15px;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17 H3 {
   font-size: 25px;
 }
 #msg-box5-r H3 {
@@ -508,7 +537,11 @@ h6,
 #msg-box5-r .btn {
   font-size: 12px;
 }
-#msg-box1-v H3 {
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 H3 {
   font-size: 25px;
 }
 #msg-box5-q H3 {
