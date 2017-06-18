@@ -3,6 +3,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -418,6 +419,7 @@ h6,
 }
 #ext_menu-5 .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
 }
 #ext_menu-5 .navbar-toggler {
   color: #ffffff;
@@ -475,16 +477,23 @@ h6,
   color: #fac51c!important;
 }
 #header1-y .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #header1-y .mbr-section-lead {
-  font-size: 22px;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header1-y .btn {
+  font-size: 11px;
 }
 #msg-box5-12 H3 {
   font-size: 25px;
 }
 #msg-box5-12 P {
   font-size: 15px;
+}
+#msg-box5-12 .btn {
+  font-size: 11px;
 }
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
@@ -496,11 +505,17 @@ h6,
 #header3-15 SMALL {
   color: #b8312f;
 }
+#buttons1-14 .btn {
+  font-size: 11px;
+}
 #msg-box5-x H3 {
   font-size: 25px;
 }
 #msg-box5-x P {
   font-size: 15px;
+}
+#msg-box5-x .btn {
+  font-size: 11px;
 }
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
@@ -509,11 +524,17 @@ h6,
 #header3-t H3 {
   font-size: 25px;
 }
+#header3-t SMALL {
+  color: #b8312f;
+}
 #msg-box5-16 H3 {
   font-size: 25px;
 }
 #msg-box5-16 P {
   font-size: 15px;
+}
+#msg-box5-16 .btn {
+  font-size: 11px;
 }
 #header3-17 .mbr-section-title,
 #header3-17 .mbr-section-subtitle {
@@ -521,6 +542,12 @@ h6,
 }
 #header3-17 H3 {
   font-size: 25px;
+}
+#header3-17 SMALL {
+  color: #b8312f;
+}
+#buttons1-10 .btn {
+  font-size: 11px;
 }
 #msg-box5-r H3 {
   font-size: 25px;
@@ -535,7 +562,7 @@ h6,
   color: #000000;
 }
 #msg-box5-r .btn {
-  font-size: 12px;
+  font-size: 11px;
 }
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {
@@ -543,6 +570,12 @@ h6,
 }
 #header3-18 H3 {
   font-size: 25px;
+}
+#header3-18 SMALL {
+  color: #b8312f;
+}
+#buttons1-19 .btn {
+  font-size: 11px;
 }
 #msg-box5-q H3 {
   font-size: 25px;
@@ -556,7 +589,7 @@ h6,
   color: #000000;
 }
 #msg-box5-q .btn {
-  font-size: 12px;
+  font-size: 11px;
 }
 #social-buttons4-11 .mbr-section-title,
 #social-buttons4-11 .btn-social {
@@ -572,6 +605,9 @@ h6,
 #social-buttons3-8 .mbr-section-title {
   font-size: 23px;
   color: #ffffff;
+}
+#buttons1-z .btn {
+  font-size: 12px;
 }
 #contacts3-4 LI {
   color: #fac51c;

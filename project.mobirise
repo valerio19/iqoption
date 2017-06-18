@@ -50,7 +50,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -128,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://bit.do/landing-page-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">It Work's</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bit.do/insafamous\" target=\"_blank\">900% INSTGRAM BOOST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/landing-page-1\" target=\"_blank\">OFFICIAL SITE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#buttons1-z\">IQ OPTION SUPPORT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" target=\"_blank\">Join Today!</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/landing-page-1\" target=\"_blank\">OFFICIAL SITE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/iqoption-tutorials\" target=\"_blank\">TUTORIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#buttons1-z\">SUPPORT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" target=\"_blank\">Demo Account!</a></li>"
         },
         {
           "_tags": [
@@ -137,10 +138,15 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px"
+              "font-size": "30px"
             },
             ".mbr-section-lead": {
-              "font-size": "22px"
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
           },
           "_anchor": "header1-y",
@@ -163,9 +169,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "How to earn $100-$1000 with Iq-Option.",
-          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks iq-option for making it so easy for me to earn and withdraw my money directly to my card\" Join my team and message me for assistance using the contact form below the site!<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team!</a>"
+          "title": "Earn $100-$1000 with IQ Option brokers.",
+          "text": "\"Thanks to Iq option all my dreams are fulfilled I am grateful for this wonderful platform and opportunity, this allowed me to retire at a young age! Thanks Iq for making it so easy for me to earn after learning your platform\" If you want a better life join today invest your time, learn the platform and watch all your dreams become a reality!<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join Now!</a>"
         },
         {
           "_tags": [
@@ -178,6 +184,9 @@
             },
             "P": {
               "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
           },
           "_anchor": "msg-box5-12",
@@ -224,9 +233,9 @@
               "size": 0
             }
           },
-          "title": "Iq-Option is one of the biggest options broker's in the world",
-          "text": "IQ Option is a unique broker using their own custom built binary options trading platform. The platform offers speed trading in increments up to 5 minutes. Their binary options go out 1 hour in 15 minute increments. They have 78 assets available for trading, with the only commodity they offer being Gold. Payouts on the EUR/USD pair is up to 91% depending on the time frame.&nbsp;IQ has mobile trading apps available for both Android and iOS. Their minimum deposit is only $10, and they offer a free demo account learn more about Iq-Options below.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Earn with a deposit of $10</a>"
+          "title": "IQ Option: is one of the biggest options broker's in the world!",
+          "text": "IQ Option is a unique brokerage company that allows you to invest real cash upwards from $1.00 dollar usd -$5,000 thousand usd, its unique platform offers clients and participants the opportunity to earn 50% - 91% on a successfull trade, Meaning: if a client trades $1.00 dollar and win the trade then his/her return will be $1.50 if the trader should loose then their return would be $0.00, payouts raises occassionaly up to 91% depending on the time frame.&nbsp;IQ also created mobile trading apps verified and available for both <a href=\"http://bit.do/iq-option-android\" target=\"_blank\"><b style=\"font-style: normal;\">Android</b></a> and <b><a href=\"http://bit.do/iq-option-ios\" target=\"_blank\"><b style=\"font-style: normal;\">iOS</b></a>&nbsp;</b>phones<b>&nbsp;</b>both can be found within the app store all apps and web platform is equipped with a free demo practise account upon sign up, learn more about IQ Options below.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Started!</a>"
         },
         {
           "_styles": {
@@ -259,13 +268,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
           "_anchor": "buttons1-14",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"http://iqoptions.eu/list-of-prohibited-countries-on-iq-option/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">List of banned countries</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"http://bit.do/iqoption-tutorials\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How to trade iq-options</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"http://iqoptions.eu/list-of-prohibited-countries-on-iq-option/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Banned countries &amp; more</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"http://bit.do/iqoption-tutorials\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How to trade iq options</a>"
         },
         {
           "_tags": [
@@ -278,6 +292,9 @@
             },
             "P": {
               "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
           },
           "_anchor": "msg-box5-x",
@@ -322,7 +339,7 @@
           },
           "title": "Take advantage of what the world has to offer!",
           "text": "Take a look at the wealthiest people in the world today Warren buffet, Michael dell, Bill gates, Paul Allen and the Waltham family all first generation multi billionaires. If you do what other successful people do you'll eventually get the same results as they do! There are many ways to get the things that we want in our lives but it all begins with how we choose to think  (words from the famous speaker : LES BROWN) This is your chance to take advantage of what the world has to offer! Take advantage of what is truly yours! Click the tab below and use that to create a better life for yourself and for your family!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How Im Making $100-$1000</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Open Demo Account!</a>"
         },
         {
           "_styles": {
@@ -331,6 +348,9 @@
             },
             "H3": {
               "font-size": "25px"
+            },
+            "SMALL": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -344,8 +364,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Empowering people to make smart choices!",
-          "meta": "greatness begins with you!"
+          "title": "Empowering people to make smart choices and not just to earn!<br>",
+          "meta": "\"GENERAL RISK WARNING: The financial products offered by the company carry a high level of risk and can result in the loss of all your funds. You should never invest money that you cannot afford to lose.\"<br>"
         },
         {
           "_tags": [
@@ -358,6 +378,9 @@
             },
             "P": {
               "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
           },
           "_anchor": "msg-box5-16",
@@ -400,9 +423,9 @@
               "size": 0
             }
           },
-          "title": "18 year old millionaire teen trader featured on caters TV successful traders!",
-          "text": "Everyone dreams, as I did, of earning additional income with little to no time or effort. After years of wasting my time on unprofitable means of making additional income, I knew there had to be a better way. Now I can honestly boast that I am earning about £800 – £1500 every week with little time or effort, just a few hours. And I can do so from the privacy of my own home. I can even make trades while I am on the go. The additional income has been more than enough to provide me with the lifestyle I have always dreamed of for myself and my family.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join my team today</a>"
+          "title": "18 Year old millionaire teen trader featured on caters TV successful traders!",
+          "text": "Everyone dreams, as I did, of earning additional income with little to no time or effort. After years of wasting my time on unprofitable means of making additional income, I knew there had to be a better way. Now I can honestly boast that I am earning decent cash every day/week with little time or effort, just a few hours. And I can do so from the privacy of my home. The additional income has been more than enough to provide me with the lifestyle I have always dreamed of for myself and my family.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Try It Out!</a>"
         },
         {
           "_styles": {
@@ -411,6 +434,9 @@
             },
             "H3": {
               "font-size": "25px"
+            },
+            "SMALL": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -424,7 +450,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "For your assurance click the link below!",
+          "title": "For proof reasons click the link below!",
           "meta": "Video show's trader earning from a $10 dollar deposit and withdrawing!"
         },
         {
@@ -432,13 +458,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
           "_anchor": "buttons1-10",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://www.youtube.com/watch?v=WhGHXGZ0xos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Payment &amp; withdrawal proof</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://blog.iqoption.com/en/how-do-i-withdraw-to-the-card/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How to withdraw earnings</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://www.youtube.com/watch?v=WhGHXGZ0xos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Payment &amp; withdrawal proof</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://blog.iqoption.com/en/how-do-i-withdraw-to-the-card/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How to withdraw earnings</a>"
         },
         {
           "_tags": [
@@ -459,7 +490,7 @@
               "color": "#000000"
             },
             ".btn": {
-              "font-size": "12px"
+              "font-size": "11px"
             }
           },
           "_anchor": "msg-box5-r",
@@ -502,9 +533,9 @@
               "size": 0
             }
           },
-          "title": "Iq option trading platform!",
-          "text": "I'm using Iq Option! To generate a monthly income for myself it is very easy to start and very easy to earn a couple a hundred or a couple a thousand bucks per day per month etc! It all depends on how much work you are willing to put in learning and mastering this system. Iq Option is a trading platform used by thousands of people worldwide, press play and watch the video on the left this will inform you more about Iq Options trading platform! Many businesses online push's you to spend thousands before you can see any form of results but with Iq Option you can start with as low as $10 dollars! I started with $10 dollars because at the time I didn’t have much I had about $75 dollars to my name! But I was eager to start so I spent $10 and made $108 dollars after a few trades. Learn how to trade by using the videos I have provided at the bottom of this website! Live your dream!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Earn Your First Buck Online</a>"
+          "title": "IQ Option: trading platform!",
+          "text": "It is very easy to start and very easy to earn a couple a hundred or a couple a thousand bucks per day/week etc using IQ! But it all depends on how much work you are willing to put in learning and mastering this system. IQ Option is used by hundreds of people worldwide to create the lifestyle they need, this video on the left will inform you more about Iq Options trading platform! Many businesses online push's you to spend thousands before you can see any form of results but with Iq Option you can start trading with as low as $1.00 dollar! I started with $10 dollars at the time I didn’t have much cash to my name! Learn how to trade by using the videos provided by the company at the bottom of this website! I wish for you MASSIVE, MASSIVE, MASSIVE success!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/landing-page-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Started!</a>"
         },
         {
           "_styles": {
@@ -513,6 +544,9 @@
             },
             "H3": {
               "font-size": "25px"
+            },
+            "SMALL": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -534,13 +568,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
           "_anchor": "buttons1-19",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-android\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(65, 168, 95);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-ios\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-android\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Android&nbsp;<span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(65, 168, 95);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iq-option-ios\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Iphone&nbsp;<span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a> "
         },
         {
           "_tags": [
@@ -560,7 +599,7 @@
               "color": "#000000"
             },
             ".btn": {
-              "font-size": "12px"
+              "font-size": "11px"
             }
           },
           "_anchor": "msg-box5-q",
@@ -607,9 +646,9 @@
               "size": 0
             }
           },
-          "title": "How to trade on iq options?",
-          "text": "1. Sign up for Iq option and confirm the message in signup email.<br>2. Trade from phone download the app for your android or iPhone.<br>3. Ensure to verify account by following the steps within setting.<br>4. Ensure that you confirm your phone # and the next step 3 steps.<br>5. When your account is verified a green tick will appear on app.<br>6. Fund your account using the deposit tab either $10 or $1000.<br>7. Ensure to withdraw earnings to the account used for deposit.<br>8. Once your account is funded use the videos and tutorial button.<br>9. Use the videos and tutorials to have the MOST success trading.<br>10. Select the green button if you think the stocks will go up.<br>11. Select the red button if you think the stocks will go down.<br>12. When you win you will earn 80% on your investment.<br>13. Trade $1.00 earn 80% on that, trade $1000 earn 80% on that.<br><br>It is best to add as much funds when starting out cause this allows you to withdraw the same amount to the card you used to deposit funds. If you have only $10 dollars start with the $10 and when you start to earn $100-$200 a day you can deposit more. I wish you the most success and feel free to contact me about any concerns.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iqoption-tutorials\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Video tutorials how to trade</a>"
+          "title": "What should i do now?",
+          "text": "1. Sign up for IQ Option and confirm the message in signup email.<br>2. Download the app for your android or iPhone.<br>3. Ensure to verify account by following the steps within setting.<br>4. Ensure that you confirm your phone # and the next step 3 steps.<br>5. When your account is verified a green tick will appear on app.<br>6. Practice and learn how to trade first before investing.<br>7. Fund your account using the deposit tab.<br>8. Ensure to withdraw earnings to the account used for deposit.<br>9. Use the videos and tutorials to have the MOST success trading.<br>10. Use skrill only for withdrawals &amp; deposits if card isnt available.<br><br>It is best to learn how to trade using the demo account first before investing, there are videos and information all over the internet that can help you to gain more knoweledge about the platform and learn how to trade, beside creating your own winning signals ofcourse.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iqoption-tutorials\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Iq video tutorials</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCDrjmRB5Sjlcn_DYoEOCa7w\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Youtube tutorials</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -638,7 +677,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "Follow Iq-Option!",
+          "text": "Follow IQ Option!",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/IQOption\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/iqoptioncom/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCDrjmRB5Sjlcn_DYoEOCa7w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/iqoption_official\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
@@ -674,13 +713,18 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Share this page!"
+          "text": "Share if you like this page!"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "buttons1-z",
           "_params": {
             "paddingTop": 1,
@@ -727,11 +771,11 @@
               "linkInNewWindow": false,
               "name": "coderwall",
               "family": "socicon",
-              "link": "http://bit.do/landing-page-1",
+              "link": "http://earn-now.online",
               "size": 0,
               "color": "#fac51c",
               "active": true,
-              "newWindow": true
+              "newWindow": false
             }
           },
           "text1": "Creating a better life for yourself means you gotta get up off your butt cheeks and start working towards it.",
@@ -744,7 +788,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (876) 361 2946",
+          "text2": "+44-20-8068-0760",
           "media2": {
             "iconFont": {
               "active": true,
@@ -754,7 +798,7 @@
               "family": "et-line"
             }
           },
-          "text3": "206 East 95 St, York Ville AA NY",
+          "text3": "Kemp House,152 City Road, London EC1V 2NX",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -767,9 +811,9 @@
             }
           },
           "text4": "",
-          "title1": "Categories",
-          "text5": "<li><a href=\"http://bit.do/insafamous\" target=\"_blank\">900% Instagram Boost</a><a class=\"text-white\" href=\"promoteanybiz.html\"></a></li><li><a href=\"livingyourdream.html\">Living Your Dream</a></li><li><a href=\"http://valerio11.com\" target=\"_blank\">Sign Up For OSP</a></li>",
-          "text6": "<strong>Contacts</strong><br>Phone: +1 (876) 361 2946<br>Fax: +1 (0) 000 i got none<br><br><br><strong>Address</strong><br>206 East 95 St<br>York Ville, AA NY",
+          "title1": "Other Links",
+          "text5": "<li><a href=\"http://bit.do/landing-page-1\" target=\"_blank\">Iq Official Website</a></li><li><a href=\"https://twitter.com/IQOption\" target=\"_blank\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Twitter</a></li><li><a href=\"http://bit.do/iqoption-tutorials\" target=\"_blank\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Iq Video Tutorials</a></li><li><a href=\"https://www.facebook.com/iqoptioncom/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.youtube.com/channel/UCDrjmRB5Sjlcn_DYoEOCa7w\" target=\"_blank\">Youtube</a> / <a href=\"https://instagram.com/iqoption_official\" target=\"_blank\">Instagram</a></li>",
+          "text6": "<strong>Contacts</strong><br>Phone #: +44-20-8068-0760<br>Fax #: +351 308 807 766<br>Email: Support@iqoption.com<br><br><strong>Address</strong><br>Kemp House,152 City Road, London EC1V 2NX<br>",
           "form": {
             "title": "MESSAGE",
             "action": "earnwithron@gmail.com",
@@ -798,7 +842,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -823,7 +867,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Earn.com. <a href=\"https://iqoption.com/en/terms-and-conditions/chat-code-of-conduct\" target=\"_blank\" class=\"text-white\">C.O,C</a>&nbsp;-&nbsp;<a href=\"https://iqoption.com/en/terms-and-conditions/payment-policy\" target=\"_blank\" class=\"text-white\">Payment policy</a><b><a href=\"index.html\" class=\"text-white\"></a> - <a href=\"https://iqoption.com/en/terms-and-conditions/privacy-policy\" class=\"text-white\" target=\"_blank\">Privacy Policy</a> - <a href=\"https://iqoption.com/en/terms-and-conditions/terms-conditions\" class=\"text-white\" target=\"_blank\">Terms Of Service</a>&nbsp;- <a href=\"https://iqoption.com/en/terms-and-conditions/return-and-refund-policy\" target=\"_blank\" class=\"text-white\">Withdrawal &amp; refund policy</a> - </b><a href=\"https://iqoption.com/en/terms-and-conditions/aml-kyc-policy\" target=\"_blank\" class=\"text-white\">AML &amp; KYC policy</a></p>"
+          "text": "<p>Copyright (c) 2017 Earn.com. <a href=\"https://iqoption.com/en/terms-and-conditions/chat-code-of-conduct\" target=\"_blank\" class=\"text-white\"><b>C.O.C</b></a><a href=\"https://iqoption.com/en/terms-and-conditions/chat-code-of-conduct\" target=\"_blank\" class=\"text-white\"></a>&nbsp;-&nbsp;<a href=\"https://iqoption.com/en/terms-and-conditions/payment-policy\" target=\"_blank\" class=\"text-white\"><b>Payment policy</b></a><b><a href=\"index.html\" class=\"text-white\"></a> - <a href=\"https://iqoption.com/en/terms-and-conditions/privacy-policy\" class=\"text-white\" target=\"_blank\">Privacy Policy</a> - <a href=\"https://iqoption.com/en/terms-and-conditions/terms-conditions\" class=\"text-white\" target=\"_blank\">Terms Of Service</a>&nbsp;- <a href=\"https://iqoption.com/en/terms-and-conditions/return-and-refund-policy\" target=\"_blank\" class=\"text-white\">Withdrawal &amp; refund policy</a> - </b><a href=\"https://iqoption.com/en/terms-and-conditions/aml-kyc-policy\" target=\"_blank\" class=\"text-white\">AML &amp; KYC policy</a></p>"
         }
       ]
     }
