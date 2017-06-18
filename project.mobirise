@@ -213,7 +213,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mbr-1400x931.jpg",
               "link": "",
@@ -222,10 +221,11 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=yjryDglyA9g",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -634,7 +634,7 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://youtu.be/UXP3YoIolfU",
+              "src": "https://www.youtube.com/watch?v=ws28EJkNyqw",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
