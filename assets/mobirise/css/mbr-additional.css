@@ -527,6 +527,19 @@ h6,
 #header3-t SMALL {
   color: #b8312f;
 }
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1b H3 {
+  font-size: 25px;
+}
+#header3-1b SMALL {
+  color: #b8312f;
+}
+#buttons1-1a .btn {
+  font-size: 11px;
+}
 #msg-box5-16 H3 {
   font-size: 25px;
 }
