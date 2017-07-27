@@ -505,9 +505,6 @@ h6,
 #header3-15 SMALL {
   color: #b8312f;
 }
-#buttons1-14 .btn {
-  font-size: 11px;
-}
 #msg-box5-x H3 {
   font-size: 25px;
 }
@@ -559,9 +556,6 @@ h6,
 #header3-17 SMALL {
   color: #b8312f;
 }
-#buttons1-10 .btn {
-  font-size: 11px;
-}
 #msg-box5-r H3 {
   font-size: 25px;
   color: #000000;
@@ -577,17 +571,7 @@ h6,
 #msg-box5-r .btn {
   font-size: 11px;
 }
-#header3-18 .mbr-section-title,
-#header3-18 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-18 H3 {
-  font-size: 25px;
-}
-#header3-18 SMALL {
-  color: #b8312f;
-}
-#buttons1-19 .btn {
+#buttons1-10 .btn {
   font-size: 11px;
 }
 #msg-box5-q H3 {
