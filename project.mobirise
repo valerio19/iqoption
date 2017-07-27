@@ -154,7 +154,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+            "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
