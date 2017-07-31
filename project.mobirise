@@ -24,7 +24,7 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-92983651-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 50,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -346,8 +346,73 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "*Empowering people to make smart choices*<br><br>",
+          "title": "*General Risk Warning*<br>",
           "meta": "<span style=\"font-style: normal;\">\"<b>GENERAL RISK WARNING: The financial products offered by the company carry a high level of risk and can result in the loss of all your funds. You should never invest money that you cannot afford to lose.\"</b></span><br>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Follow IQ Option!",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/IQOption\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/iqoptioncom/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCDrjmRB5Sjlcn_DYoEOCa7w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/iqoption_official\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Share if you like this page!"
         },
         {
           "_styles": {
@@ -370,10 +435,10 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "*Simple &amp; Reliable withdrawal*",
-          "meta": "\"GENERAL RISK WARNING: The financial products offered by the company carry a high level of risk and can result in the loss of all your funds. You should never invest money that you cannot afford to lose.\"<br>"
+          "title": "*Simple &amp; Reliable withdrawal*<br>",
+          "meta": "*With Iq Option experience &nbsp;the fastest withdrawal processing all withdrawal takes only 1 business day*"
         },
         {
           "_tags": [
@@ -542,7 +607,7 @@
             }
           },
           "title": "Withdraw and deposit funds easy and realiable using the best platforms built for such reason's",
-          "text": "It is important that you set up and verify your account with the platforms recommended by Iq Option company, you can simply withdraw to the bank card or e-wallet you used to make a deposit, trying to withdraw more funds than available will cause the system to cancel your withdrawal request, as regards withdrawing funds via bank card the amount must not be larger than the deposited amount made from that card, indeed this way of withdrawing is very reliable because Iq Option recently implemented instant bank card withdrawal processing, so you do not have to wait 3 working days for your withdrawal application to be processed.  For e-wallets there are no limit to the amount for withdrawal, I highly recommend skrill for both withdrawing and depositing they also offer options for withdrawing directly to your bank card.<br>",
+          "text": "It is important that you set up and verify your account with the platforms recommended by Iq Option company, you can simply withdraw to the bank card or e-wallet you used to make a deposit, trying to withdraw more funds than available will cause the system to cancel your withdrawal request, as regards withdrawing funds via bank card the amount must not be larger than the deposited amount made from that card, indeed this way of withdrawing is very reliable because Iq Option recently implemented instant withdrawal processing, so you do not have to wait 3 working days for your withdrawal application to be processed, withdrawal takes only 1 business day.  For e-wallets there are no limit to the amount for withdrawal, I highly recommend skrill for both withdrawing and depositing they also offer options for withdrawing directly to your bank card.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.do/iqoption-new\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Started!</a>"
         },
         {
@@ -649,7 +714,7 @@
           "_anchor": "social-buttons4-11",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -680,7 +745,7 @@
           "_anchor": "social-buttons3-8",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

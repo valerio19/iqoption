@@ -524,6 +524,21 @@ h6,
 #header3-t SMALL {
   color: #b8312f;
 }
+#social-buttons4-1c .mbr-section-title,
+#social-buttons4-1c .btn-social {
+  color: #fff;
+}
+#social-buttons4-1c .mbr-section-title {
+  font-size: 23px;
+}
+#social-buttons3-1d .mbr-section-title,
+#social-buttons3-1d .btn-social {
+  color: #fff;
+}
+#social-buttons3-1d .mbr-section-title {
+  font-size: 23px;
+  color: #ffffff;
+}
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
   text-align: center;
