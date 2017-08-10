@@ -161,7 +161,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/NtQzXRA4hu0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/UB0S9gqpb48?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -224,7 +224,7 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://player.vimeo.com/video/224846770",
+              "src": "https://www.youtube.com/watch?v=NtQzXRA4hu0&t=46s",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
